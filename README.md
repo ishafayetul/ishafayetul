@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Autonomous Mobile Robot](https://github.com/ishafayetul/Autonomous-Guided-Vehicle-Using-ROS1)
 
-- 👨‍💻 All of my projects are available at [www.ishafayet.com](www.ishafayet.com)
+- 👨‍💻 All of my projects are available at [www.ishafayet.com](https://www.ishafayet.com)
 
-- 📝 I regularly write articles on [www.ishafayet.com](www.ishafayet.com)
+- 📝 I regularly write articles on [www.ishafayet.com](https://www.ishafayet.com)
 
 - 📫 How to reach me **shafatsib@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19R94uMSoFiOw6A4Hjdw34Ng1ESYwi0fe/view?usp=sharing](https://drive.google.com/file/d/19R94uMSoFiOw6A4Hjdw34Ng1ESYwi0fe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19R94uMSoFiOw6A4Hjdw34Ng1ESYwi0fe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
