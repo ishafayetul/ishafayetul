@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Autonomous Mobile Robot](https://github.com/ishafayetul/Autonomous-Guided-Vehicle-Using-ROS1)
 
 - 👨‍💻 All of my projects are available at [ishafayet.com](https://www.ishafayet.com)
-
+- 📚 My Courses on Arduino : [Robotics: a journey with Arduino](https://aparsclassroom.com/shop/robotics/)
 - 📝 I regularly write articles on [ishafayet.com](https://www.ishafayet.com)
 
 - 📫 How to reach me **shafatsib@gmail.com**
