@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Autonomous Mobile Robot](https://github.com/ishafayetul/Autonomous-Guided-Vehicle-Using-ROS1)
 
-- 👨‍💻 All of my projects are available at [ishafayetul.com](ishafayet.com)
+- 👨‍💻 All of my projects are available at [ishafayet.com](ishafayet.com)
 
-- 📝 I regularly write articles on [ishafayetul.com](ishafayet.com)
+- 📝 I regularly write articles on [ishafayet.com](ishafayet.com)
 
 - 📫 How to reach me **shafatsib@gmail.com**
 
